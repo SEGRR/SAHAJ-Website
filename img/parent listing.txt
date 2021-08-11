@@ -1,0 +1,12 @@
+parent sku SR-1J7M-HVOI
+ASIN          COLOR         SKU
+B08HX36HZX    Blue         SC-MP-BF
+B08HY4MTN2    Brown        SC-MP-COFF
+B08HY57PHN    Dark Blue    SC-MP-DBB
+B08HY5696F    Green        SC-MP-GB  
+B08HY57KNL    Dark Green   SC-MP-DGF
+B08HY5V6RM    Maroon       SC-MP-M
+B08HY6KRDN    Red          SC-MP-RF
+B08HY65ZLT    Red White    SC-MP-RWC
+B08HY5YKF3    Gold         SC-MP-GOLD
+B08HY6WCMX    Yellow       SC-MP-Y
